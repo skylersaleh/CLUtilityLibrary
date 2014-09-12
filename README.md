@@ -15,6 +15,8 @@
 
  ##Basic Usage:
 
+~~~
+
  #include <OpenCL/cl.h>
  #include "CLUtilityLibrary.h"
  
@@ -46,6 +48,8 @@
     std::cout<<A[i]<<std::endl;
  }
  
+ ~~~
+
 ### Licence:
  
      Copyright (c) 2014 Skyler Saleh
